@@ -1,4 +1,4 @@
-# Battle-Brothers-Damage-Calculator
+[![Run on Repl.it](https://repl.it/badge/github/turtle225/Battle-Brothers-Damage-Calculator)](https://repl.it/github/turtle225/Battle-Brothers-Damage-Calculator)# Battle-Brothers-Damage-Calculator
 Updated for Blazing Deserts
 
 A script that simulates the damage formula used in Battle Brothers, returning expected hits until death, injury, heavy injury, and morale check given whatever scenario you provide. Also returns % chance of death by hit, and can also return % chance of first injuries or morale by hit. 
